@@ -2,7 +2,7 @@ body {
     display: grid;
     font-family: 'KoHo', sans-serif;
     align-items: flex-end;
-    background-image: url(/resources/cover.png);
+    background-image: url(cover.png);
     background-position:unset;
     justify-content: center;
 }
